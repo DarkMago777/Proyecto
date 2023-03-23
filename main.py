@@ -1,2 +1,2 @@
-print("Bienvenido basura malnacido hijo de perra")
-print("MAKANAKI LA REALEZA")
+print("Mi nombre es KAEL")
+print("A VECES DUDO DE MI HOMOSEXUALIDAD")
